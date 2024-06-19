@@ -10,7 +10,7 @@ function About() {
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
           Hello, I'm Dattatraya, a passionate Full Stack Java developer with a keen eye for Full Stack Java
-          Stack . With a background in IT, I strive to create impactful and
+        . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
@@ -18,9 +18,10 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
+          [BCS], [Pune University], [2020-2023] <br />
+          {/* [Degree/Certification],
           [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          [Year] */}
         </span>
         <br />
         <br />
@@ -28,10 +29,13 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+        Programming languages: JAVA,
+SQL, JAVASCRIPT, HTML, CSS,
+BOOTSTRAP, REACT JS <br />
+Database: MYSQL <br />
+Web frameworks: Spring Boot,
+Hibernate <br />
+Tools: Eclipse, Visual Studio Code
         </span>
         <br />
         <br />
@@ -39,11 +43,17 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
+          [Java Developer Intern], [YESS INFOTECH PVT.LTD. ,
+            PUNE, MAHARASHTRA], [7/2023 - 2/2024] [Worked as part of a team on Java Full Stack
+development projects.
+Assisted in implementing RESTful APIs and database
+interactions.
+Collaborated with senior developers and learned best
+practices in Java backend development.
+          {/* ] [Job Title],
           [Company/Organization], [Dates] [Brief description of responsibilities
           and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          [Dates] [Brief description of projects and contributions] */}
         </span>
         <br />
         <br />
@@ -51,8 +61,9 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          [Full Stack Java Development], [YESS INFOTECH PVT.LTD.], [7/2023 - 2/2024] [Full Stack Java Development Internship Certificate],
+          [YESS INFOTECH PVT.LTD. ,
+            PUNE, MAHARASHTRA], [7/2023 - 2/2024]
         </span>
         <br />
         <br />
@@ -61,7 +72,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative [software Development] solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.

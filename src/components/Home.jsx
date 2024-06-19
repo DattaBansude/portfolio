@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/DattaProfile.jpeg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -38,11 +38,14 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              Highly motivated and detail-oriented
+
+              computer science graduate seeking an entry-
+              level Java Backend Developer position to
+
+              leverage my programming skills and passion
+              for backend development. Eager to contribute
+              to a dynamic software development team.!
             </p>
             <br />
             {/* social media icons */}
@@ -83,6 +86,12 @@ function Home() {
                 </div>
               </div>
             </div>
+            <div className=" ml-10 pt-10  md:w-1/2 mt-1 md:mt-5 text-center mb-0">
+              <button className="bg-red-500 hover:bg-red-700 text-white font-bold px-8 py-2 rounded">
+                 <a href="https://drive.google.com/file/d/1vFES7jNCEef_izj_PyE9i5GpmUo1ACIw/view?usp=sharing" target="_blank">Download Resume</a>
+              </button>
+            </div>
+
           </div>
           <div className="md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1">
             <img
